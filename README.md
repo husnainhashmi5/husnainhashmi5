@@ -26,7 +26,7 @@ I build production-style web systems: REST APIs, authentication flows, database-
 
 ## Selected Engineering Work
 
-Selected public projects:
+Selected public GitHub projects:
 
 - **[Prism Copilot](https://github.com/husnainhashmi5/prisma)** - Django/DRF backend for AI-assisted visual diagnostics, ML operations, cloud adapter boundaries, Celery, Redis, PostgreSQL, and CI.
 - **[CiteMed Evidence Cloud](https://github.com/husnainhashmi5/sITEmED)** - Large Django/DRF evidence review platform with search workflows, citation screening, Celery workers, PostgreSQL, Redis, and S3-backed document handling.
@@ -34,6 +34,13 @@ Selected public projects:
 - **[Genie Backend API](https://github.com/husnainhashmi5/genapi)** - FastAPI backend for AI-assisted recommendations, chat, location-aware discovery, notifications, WebSockets, Celery, Redis, RabbitMQ, and Alembic migrations.
 
 Current public repositories also include smaller API, frontend, and infrastructure examples. I am prioritizing cleanup, documentation, and CI so public repos show real engineering quality rather than just code snapshots.
+
+Selected production and client work:
+
+- **[Veriport](https://dashboard.veriport.app/)** - Lab-testing compliance platform with MRO review workflows, document management, OCR-assisted CCF QA, dashboards, reporting, Celery workers, and multi-provider Quest/CRL lab integrations through SOAP/XML APIs and webhooks.
+- **[PageOptimizer Pro](https://www.pageoptimizer.pro/)** - SEO content optimization platform with Flask APIs, Vue UI, keyword insight and clustering, schema generation, AI content tooling, async competitor-analysis pipelines, Redis/Celery workers, and Stripe/PayPal subscription flows.
+- **[EnergyGigs](https://energygigs.com/)** - Energy-sector professional marketplace built with React, Redux Toolkit, Django REST Framework APIs, Dockerized environments, and search/matching workflows between professionals and projects.
+- **[Omnia Resourcing](http://18.130.83.142:8080/login)** - Staffing operations platform with React and DRF, bulk CSV imports, weekly work-detail distribution, bulk email and WhatsApp delivery, per-employee PDF attachments, Celery workers, and Pandas-based validation.
 
 ## Current Focus
 
