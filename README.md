@@ -26,12 +26,12 @@ I build production-style web systems: REST APIs, authentication flows, database-
 
 ## Selected Engineering Work
 
-These projects are being cleaned and documented for public portfolio review:
+Selected public projects:
 
-- **Prism Copilot** - Django/DRF backend for AI-assisted visual diagnostics, ML operations, cloud adapter boundaries, Celery, Redis, PostgreSQL, and CI.
-- **CiteMed Evidence Cloud** - Large Django/DRF evidence review platform with search workflows, citation screening, Celery workers, PostgreSQL, Redis, and S3-backed document handling.
-- **Multi-Tenant Time Tracking Platform** - Django REST API, React/TypeScript dashboard, Electron desktop client, role-based workflows, screenshots, reports, Docker, and tests.
-- **Genie Backend API** - FastAPI backend for AI-assisted recommendations, chat, location-aware discovery, notifications, WebSockets, Celery, Redis, RabbitMQ, and Alembic migrations.
+- **[Prism Copilot](https://github.com/husnainhashmi5/prisma)** - Django/DRF backend for AI-assisted visual diagnostics, ML operations, cloud adapter boundaries, Celery, Redis, PostgreSQL, and CI.
+- **[CiteMed Evidence Cloud](https://github.com/husnainhashmi5/sITEmED)** - Large Django/DRF evidence review platform with search workflows, citation screening, Celery workers, PostgreSQL, Redis, and S3-backed document handling.
+- **[Multi-Tenant Time Tracking Platform](https://github.com/husnainhashmi5/tracker-project)** - Django REST API, React/TypeScript dashboard, Electron desktop client, role-based workflows, screenshots, reports, Docker, and tests.
+- **[Genie Backend API](https://github.com/husnainhashmi5/genapi)** - FastAPI backend for AI-assisted recommendations, chat, location-aware discovery, notifications, WebSockets, Celery, Redis, RabbitMQ, and Alembic migrations.
 
 Current public repositories also include smaller API, frontend, and infrastructure examples. I am prioritizing cleanup, documentation, and CI so public repos show real engineering quality rather than just code snapshots.
 
@@ -39,11 +39,10 @@ Current public repositories also include smaller API, frontend, and infrastructu
 
 - Improving public project documentation and setup quality
 - Strengthening tests and CI across backend/full-stack projects
-- Preparing selected private work for public release after secret and data cleanup
+- Maintaining selected portfolio repositories with clearer setup, tests, and deployment notes
 - Building senior-level examples around Django, FastAPI, React, Docker, and AWS
 
 ## Contact
 
 - GitHub: [github.com/husnainhashmi5](https://github.com/husnainhashmi5)
 - Email: husnain4work@gmail.com
-
